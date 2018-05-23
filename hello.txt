@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D477-4F49
+
+ Directory of C:\Users\a\Vijay\Git\Projects
+
+05/23/2018  16:27    <DIR>          .
+05/23/2018  16:27    <DIR>          ..
+05/23/2018  16:27                 0 hello.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  405,802,479,616 bytes free
